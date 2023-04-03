@@ -20,19 +20,21 @@ label start:
     "Alexander Adell and Bertram Lupov were two of the faithful attendants of Multivac. 
     As well as any human beings could, they knew what lay behind the cold, 
     clicking, flashing face -- miles and miles of face -- of that giant computer. 
-    They had at least a vague notion of the general plan of relays and circuits that had long since grown 
+    "
+    "They had at least a vague notion of the general plan of relays and circuits that had long since grown 
     past the point where any single human could possibly have a firm grasp of the whole."
 
     "Multivac was self-adjusting and self-correcting. It had to be, for nothing human could adjust and correct it 
     quickly enough or even adequately enough. 
     So Adell and Lupov attended the monstrous giant only lightly and superficially, 
-    yet as well as any men could. They fed it data, adjusted questions to its needs and translated 
+    yet as well as any men could."
+    "They fed it data, adjusted questions to its needs and translated 
     the answers that were issued. Certainly they, and all others like them, were fully 
     entitled to share in the glory that was Multivac's."
 
     "For decades, Multivac had helped design the ships and plot the trajectories that enabled man to reach the Moon, Mars, 
-    and Venus, but past that, 
-    Earth's poor resources could not support the ships. Too much energy was needed for the long trips. 
+    and Venus, but past that, Earth's poor resources could not support the ships. "
+    "Too much energy was needed for the long trips. 
     Earth exploited its coal and uranium with increasing efficiency, but there was only so much of both."
     
     "But slowly Multivac learned enough to answer deeper questions more fundamentally, 
@@ -40,13 +42,14 @@ label start:
 
     "The energy of the sun was stored, converted, and utilized directly on a planet-wide scale.
     All Earth turned off its burning coal, its fissioning uranium, 
-    and flipped the switch that connected all of it to a small station, one mile in diameter,
-    circling the Earth at half the distance of the Moon. 
+    and flipped the switch that connected all of it to a small station, "
+    "one mile in diameter, circling the Earth at half the distance of the Moon. 
     All Earth ran by invisible beams of sunpower."
     
     "Seven days had not sufficed to dim the glory of it and Adell and Lupov finally managed to escape from the public functions, 
-    and to meet in quiet where no one would think of looking for them, in the deserted underground chambers, 
-    where portions of the mighty buried body of Multivac showed. Unattended, idling, sorting data with contented lazy clickings, 
+    and to meet in quiet where no one would think of looking for them, "
+    "in the deserted underground chambers, where portions of the mighty buried body of Multivac showed."
+    "Unattended, idling, sorting data with contented lazy clickings, 
     Multivac, too, had earned its vacation and the boys appreciated that. 
     They had no intention, originally, of disturbing it."
 
@@ -55,7 +58,8 @@ label start:
 
     "'It's amazing when you think of it,' said Adell. His broad face had lines of weariness in it, 
     and he stirred his drink slowly with a glass rod, 
-    watching the cubes of ice slur clumsily about. 
+    watching the cubes of ice slur clumsily about."
+    " 
     'All the energy we can possibly ever use for free. Enough energy, 
     if we wanted to draw on it, to melt all Earth into a big drop of impure liquid iron, 
     and still never miss the energy so used. All the energy we could ever use, 
@@ -105,8 +109,8 @@ label start:
 
     "'Sure you are. You're weak on logic, that's the trouble with you. 
     You're like the guy in the story who was caught in a sudden shower and who ran to a 
-    grove of trees and got under one. He wasn't worried, you see, 
-    because he figured when one tree got wet through, 
+    grove of trees and got under one."
+    "He wasn't worried, you see, because he figured when one tree got wet through, 
     he would just get under another one.'"
 
     "'I get it,' said Adell. 
@@ -114,9 +118,10 @@ label start:
 
     "'Darn right they will,' muttered Lupov. 'It all had a beginning in the original 
     cosmic explosion, whatever that was, and it'll all have an end when all the stars 
-    run down. Some run down faster than others. Hell, the giants won't last a hundred million years. 
-    The sun will last ten billion years and maybe the dwarfs will last two hundred billion for all the good they are. 
-    But just give us a trillion years and everything will be dark. 
+    run down. Some run down faster than others."
+    "Hell, the giants won't last a hundred million years. 
+    The sun will last ten billion years and maybe the dwarfs will last two hundred billion for all the good they are."
+    "But just give us a trillion years and everything will be dark. 
     Entropy has to increase to maximum, that's all.'"
 
     "'I know all about entropy,' said Adell, standing on his dignity"
@@ -146,7 +151,8 @@ label start:
     "'You ask Multivac. I dare you. Five dollars says it can't be done.'"
 
     "Adell was just drunk enough to try, just sober enough to be able to phrase the necessary symbols 
-    and operations into a question which, in words, might have corresponded to this: 
+    and operations into a question which, in words, might have corresponded to this:"
+    "
     Will mankind one day without the net expenditure of energy be able to restore the sun 
     to its full youthfulness even after it had died of old age?"
 
@@ -158,7 +164,8 @@ label start:
 
     "Then, just as the frightened technicians felt they could hold their breath no longer, 
     there was a sudden springing to life of the teletype attached to that portion of Multivac. 
-    Five words were printed: INSUFFICIENT DATA FOR MEANINGFUL ANSWER."
+    Five words were printed:"
+    "INSUFFICIENT DATA FOR MEANINGFUL ANSWER."
 
     "'No bet,' whispered Lupov. They left hurriedly."
 
@@ -166,6 +173,6 @@ label start:
     had forgotten the incident."
 
     scene bg scene1_starship
-
+    with fade 
 
     return
