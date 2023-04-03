@@ -5,6 +5,8 @@
 
 # The game starts here.
 
+image bg scene1_computer = "bg_scene1_computer.png"
+
 label start:
     
     scene black
